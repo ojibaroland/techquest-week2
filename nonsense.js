@@ -1,0 +1,1 @@
+const ene = (a,b)=>
